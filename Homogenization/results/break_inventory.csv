@@ -1,0 +1,135 @@
+station,region,country,break_year,n_years,station_class,detected_by_climatol,confirmed_pmf,confirmed_pmt,confidence,applied_factor,lat,lon
+Bandar Bharu Hospital,Kedah,Malaysia,1949,48,long,True,False,True,high,0.907,5.129,100.532
+Pertang Estate,Negri_Sembilan,Malaysia,1929,33,long,True,False,True,high,0.8567,2.9667,102.25
+"Cheneras Reservoir, Kuala Lipis",Pahang,Malaysia,1936,36,long,True,False,True,high,0.8154,4.18,102.055
+Kuantan Hospital,Pahang,Malaysia,1932,52,long,True,False,True,high,0.8501,3.8126,103.3256
+Gedong Estate,Perak,Malaysia,1917,53,long,True,False,True,high,0.8391,4.1,101.15
+Sussex Estate,Perak,Malaysia,1948,39,long,True,False,True,high,0.78,4.0033,101.1302
+Teluk Anson District Hospital,Perak,Malaysia,1918,65,long,True,False,True,high,0.8377,4.0224,101.0206
+Walbrook Estate,Perak,Malaysia,1938,42,long,True,False,True,high,0.8643,4.2685,100.71
+"Bukit Hitam Estate, Puchong",Selangor,Malaysia,1923,36,long,True,False,True,high,0.8401,3.01,101.62
+Kuala Kubu Bahru Hospital,Selangor,Malaysia,1913,52,long,True,False,True,high,0.8339,3.558,101.66
+"Midlands Estate, Klang",Selangor,Malaysia,1938,44,long,True,True,True,high,0.8759,3.04,101.43
+Serendah Rubber Estate,Selangor,Malaysia,1933,36,long,True,False,True,high,0.8087,3.36,101.61
+"Sungei Kapar Estate, Kapar",Selangor,Malaysia,1922,45,long,True,True,True,high,1.0465,3.15,101.38
+Sungei Serdang Estate,Selangor,Malaysia,1938,39,long,True,True,True,high,1.024,3.0,101.7
+Sungei Serdang Estate,Selangor,Malaysia,1952,39,long,True,True,True,high,0.7398,3.0,101.7
+Ulu Gombak 15 3/4 Mile,Selangor,Malaysia,1931,36,long,True,True,True,high,0.6785,3.24,101.75
+Gemas Estate (Home Division),Johor,Malaysia,1949,27,short,True,False,False,low,0.9084,2.58,102.61
+"Kukub Rubber Estate, Pontian",Johor,Malaysia,1951,18,short,True,False,False,low,0.8219,1.32,103.45
+"Muar Itam Estate, Muar",Johor,Malaysia,1953,16,short,True,False,False,low,1.2709,2.05,102.65
+Oil Palm of Malaya (Ulu Remis Division),Johor,Malaysia,1949,20,short,True,False,False,low,0.8589,1.8867,103.4829
+"Sungei Rayat Estate, Batu Pahat",Johor,Malaysia,1948,25,short,True,False,False,low,1.2524,1.9,103.05
+"Sungei Tiram Estate (Div. ""A"")",Johor,Malaysia,1937,22,short,True,False,False,low,1.1181,1.5763,103.9085
+"Tanjong Olak Estate, Muar",Johor,Malaysia,1950,20,short,True,False,False,low,1.2168,2.1494,102.65
+Bukit Wang (Waterworks),Kedah,Malaysia,1953,15,short,True,False,False,low,1.2109,6.283,100.508
+Padang Sanai,Kedah,Malaysia,1950,17,short,True,False,False,low,0.7086,6.344,100.69
+Lendu Estate,Malacca,Malaysia,1948,20,short,True,False,False,low,0.9073,2.3665,102.1939
+Merlimau Police Station,Malacca,Malaysia,1949,21,short,True,False,False,low,1.2814,2.15,102.433
+"Pegoh Estate (Home Div.), Alor Gajah",Malacca,Malaysia,1949,22,short,True,False,False,low,0.737,2.4188,102.2308
+Bahau Estate,Negri_Sembilan,Malaysia,1951,27,short,True,False,False,low,1.1545,2.8039,102.4342
+"Benta Estate, Raub",Pahang,Malaysia,1952,27,short,True,False,False,low,1.2195,3.95,101.93
+"Benta, P.W.D.",Pahang,Malaysia,1937,29,short,True,False,False,low,1.2172,4.017,101.967
+Jeram Kuantan Estate,Pahang,Malaysia,1950,24,short,True,False,False,low,0.7733,3.83,103.28
+"Lubok Paku, P.W.D.",Pahang,Malaysia,1951,26,short,True,False,False,low,1.2721,3.5064,102.7846
+Sungei Salan P.W.D. (63rd Mile Kuantan Road),Pahang,Malaysia,1935,23,short,True,False,False,low,1.2935,3.56,102.65
+Bukit Berapit Reservoir,Penang,Malaysia,1943,24,short,True,False,False,low,0.8533,5.3734,100.4783
+"Bagan Datoh D.I.D., Lower Perak",Perak,Malaysia,1952,20,short,True,False,False,low,1.2239,3.983,100.783
+"Bagan Serai, P.W.D. Office",Perak,Malaysia,1940,29,short,True,False,False,low,1.1165,5.0081,100.5394
+Dusun Bertam Estate,Perak,Malaysia,1938,28,short,True,False,False,low,0.8993,4.5378,101.1059
+Ligertwood Rubber Estate,Perak,Malaysia,1949,28,short,True,False,False,low,0.912,4.95,100.7167
+"Nalla Rubber Estate, Tronoh",Perak,Malaysia,1948,28,short,True,False,False,low,0.8479,4.423,100.993
+Ratanui Estate (Beech Division),Perak,Malaysia,1938,24,short,True,False,False,low,1.2488,3.9919,101.0397
+Selinsing Agricultural Test Plot,Perak,Malaysia,1953,27,short,True,False,False,low,1.1164,4.9134,100.5521
+"Wellingdon Estate, Ayer Tawar",Perak,Malaysia,1948,20,short,True,False,False,low,0.8201,4.3148,100.7842
+Ulu Gombak 11.5 Mile,Selangor,Malaysia,1950,26,short,True,False,False,low,0.7697,3.24,101.75
+Kasui,Sumatra,Indonesia,1936,19,short,True,False,False,low,1.913,-4.71670007705688,104.466697692871
+Bandar Bharu Hospital,Kedah,Malaysia,1915,48,long,True,False,False,medium,1.0408,5.129,100.532
+Pulau Langkawi Hospital,Kedah,Malaysia,1932,40,long,True,False,False,medium,1.1544,6.323,99.855
+Selama Sungei Duri Estate,Kedah,Malaysia,1920,42,long,True,False,False,medium,0.8598,5.19,100.6
+Kuala Pilah District Hospital,Negri_Sembilan,Malaysia,1949,55,long,True,False,False,medium,0.8815,2.752,102.265
+Mambau Estate,Negri_Sembilan,Malaysia,1919,40,long,True,False,False,medium,0.8815,2.6333,101.9
+Atbara Estate,Pahang,Malaysia,1952,41,long,True,False,False,medium,0.7581,3.83,103.15
+Bentong Hospital,Pahang,Malaysia,1916,56,long,True,False,False,medium,0.878,3.523,101.909
+Pekan Hospital,Pahang,Malaysia,1930,55,long,True,False,False,medium,0.868,3.4906,103.3902
+Sungei Lembing Hospital,Pahang,Malaysia,1947,34,long,True,False,False,medium,0.8078,3.9186,103.0367
+Tikam P.W.D. (Benta/Kuantan Road),Pahang,Malaysia,1950,39,long,True,False,False,medium,0.7735,3.96,102.01
+Batu Kurau P.W.D.,Perak,Malaysia,1925,39,long,True,False,False,medium,1.3723,4.9754,100.7976
+"Bidor Rubber Estate, Bidor",Perak,Malaysia,1916,45,long,True,False,False,medium,1.1455,4.117,101.283
+Glenealy Estate,Perak,Malaysia,1951,43,long,True,False,False,medium,0.8666,4.4588,100.9307
+Jendarata Estate,Perak,Malaysia,1947,46,long,True,False,False,medium,0.8431,3.9125,100.9453
+Kota Tampan Estate,Perak,Malaysia,1938,39,long,True,False,False,medium,0.8618,5.05,100.96
+Kuala Kangsar District Hospital,Perak,Malaysia,1918,65,long,True,False,False,medium,0.9081,4.7722,100.9421
+Kuala Kurau Hospital,Perak,Malaysia,1936,59,long,True,False,False,medium,0.9104,5.0164,100.4318
+Sitiawan Estate,Perak,Malaysia,1921,42,long,True,False,False,medium,0.8591,4.1354,100.7299
+Strathisla Estate,Perak,Malaysia,1947,39,long,True,False,False,medium,0.86,4.8,101.1
+Sussex Estate,Perak,Malaysia,1921,39,long,True,False,False,medium,0.8981,4.0033,101.1302
+Tapah Estate,Perak,Malaysia,1918,42,long,True,False,False,medium,1.1794,4.2,101.25
+Braunston Rubber Estate,Selangor,Malaysia,1943,43,long,True,False,False,medium,1.369,3.06,101.52
+Braunston Rubber Estate,Selangor,Malaysia,1951,43,long,True,False,False,medium,1.1857,3.06,101.52
+Highlands Estate,Selangor,Malaysia,1933,37,long,True,False,False,medium,0.8804,3.05,101.48
+"Midlands Estate, Klang",Selangor,Malaysia,1922,44,long,True,False,False,medium,0.964,3.04,101.43
+Serendah Rubber Estate,Selangor,Malaysia,1924,36,long,True,False,False,medium,0.9652,3.36,101.61
+"Sungei Buloh Estate, Bukit Rotan",Selangor,Malaysia,1919,47,long,True,False,False,medium,1.1543,3.22,101.48
+"Sungei Kapar Estate, Kapar",Selangor,Malaysia,1940,45,long,True,False,False,medium,0.9113,3.15,101.38
+Ulu Gombak 15 3/4 Mile,Selangor,Malaysia,1921,36,long,True,False,False,medium,0.8205,3.24,101.75
+"Weld Hill Reservoir, Kuala Lumpur",Selangor,Malaysia,1932,40,long,True,False,False,medium,0.8916,3.16,101.69
+Sibolga/Pinangsore,Sumatra,Indonesia,1920,39,long,True,False,False,medium,1.1864,1.54999995231628,98.8833312988281
+Tanjungraja,Sumatra,Indonesia,1925,37,long,True,False,False,medium,0.7932,-3.33330011367798,104.766700744629
+Selama Hospital,Perak,Malaysia,1926,62,long,True,True,False,medium-high,0.8666,5.2185,100.6935
+Bukit Banang Impounding Reservoir,Johor,Malaysia,1948,32,long,False,False,True,rhtests-only,,1.893,102.977
+Baling Hospital,Kedah,Malaysia,1921,40,long,False,False,True,rhtests-only,,5.6781,100.9175
+Baling Hospital,Kedah,Malaysia,1927,40,long,False,False,True,rhtests-only,,5.6781,100.9175
+Kulim Hospital,Kedah,Malaysia,1920,51,long,False,False,True,rhtests-only,,5.365,100.561
+Labu Estate,Negri_Sembilan,Malaysia,1922,42,long,False,False,True,rhtests-only,,2.7167,101.817
+Mambau Estate,Negri_Sembilan,Malaysia,1927,40,long,False,True,False,rhtests-only,,2.6333,101.9
+Perhentian Tinggi Estate,Negri_Sembilan,Malaysia,1925,47,long,False,True,False,rhtests-only,,2.626,102.0303
+Sengkang Estate,Negri_Sembilan,Malaysia,1924,39,long,False,True,False,rhtests-only,,2.4368,102.0001
+Sengkang Estate,Negri_Sembilan,Malaysia,1924,39,long,False,False,True,rhtests-only,,2.4368,102.0001
+Atbara Estate,Pahang,Malaysia,1924,41,long,False,True,False,rhtests-only,,3.83,103.15
+Atbara Estate,Pahang,Malaysia,1926,41,long,False,False,True,rhtests-only,,3.83,103.15
+Bentong Hospital,Pahang,Malaysia,1941,56,long,False,False,True,rhtests-only,,3.523,101.909
+Bentong Waterworks,Pahang,Malaysia,1932,33,long,False,False,True,rhtests-only,,3.53,101.89
+Bentong Waterworks,Pahang,Malaysia,1949,33,long,False,True,False,rhtests-only,,3.53,101.89
+"Cheneras Reservoir, Kuala Lipis",Pahang,Malaysia,1924,36,long,False,True,False,rhtests-only,,4.18,102.055
+Tikam P.W.D. (Benta/Kuantan Road),Pahang,Malaysia,1935,39,long,False,False,True,rhtests-only,,3.96,102.01
+Cicely Estate,Perak,Malaysia,1921,41,long,False,False,True,rhtests-only,,4.05,101.25
+Gopeng Hospital,Perak,Malaysia,1908,66,long,False,True,False,rhtests-only,,4.4717,101.1654
+Jendarata Estate,Perak,Malaysia,1921,46,long,False,False,True,rhtests-only,,3.9125,100.9453
+Jendarata Estate,Perak,Malaysia,1923,46,long,False,True,False,rhtests-only,,3.9125,100.9453
+Kampar Hospital,Perak,Malaysia,1911,57,long,False,False,True,rhtests-only,,4.3085,101.1537
+Klian Intan Dispensary,Perak,Malaysia,1919,43,long,False,True,False,rhtests-only,,5.633,101.033
+Klian Intan Dispensary,Perak,Malaysia,1919,43,long,False,False,True,rhtests-only,,5.633,101.033
+Lawin Estate,Perak,Malaysia,1940,38,long,False,True,False,rhtests-only,,4.7703,100.929
+Lawin Estate,Perak,Malaysia,1940,38,long,False,False,True,rhtests-only,,4.7703,100.929
+"Maxwell Hill, Taiping",Perak,Malaysia,1922,57,long,False,False,True,rhtests-only,,4.86,100.79
+Sabrang Estate,Perak,Malaysia,1922,39,long,False,False,True,rhtests-only,,3.9761,100.9658
+Sitiawan Estate,Perak,Malaysia,1939,42,long,False,False,True,rhtests-only,,4.1354,100.7299
+Strathisla Estate,Perak,Malaysia,1923,39,long,False,True,False,rhtests-only,,4.8,101.1
+Sussex Estate,Perak,Malaysia,1939,39,long,False,True,False,rhtests-only,,4.0033,101.1302
+Tapah Estate,Perak,Malaysia,1938,42,long,False,True,False,rhtests-only,,4.2,101.25
+Tapah Estate,Perak,Malaysia,1938,42,long,False,False,True,rhtests-only,,4.2,101.25
+Tapah Hospital,Perak,Malaysia,1906,65,long,False,False,True,rhtests-only,,4.1977,101.2615
+Tapah Hospital,Perak,Malaysia,1912,65,long,False,True,False,rhtests-only,,4.1977,101.2615
+Tapah Hospital,Perak,Malaysia,1912,65,long,False,False,True,rhtests-only,,4.1977,101.2615
+Tapah Hospital,Perak,Malaysia,1937,65,long,False,False,True,rhtests-only,,4.1977,101.2615
+Batang Kali Estate,Selangor,Malaysia,1928,35,long,False,False,True,rhtests-only,,3.47,101.63
+Batu Caves Estate,Selangor,Malaysia,1936,39,long,False,False,True,rhtests-only,,3.237,101.68
+"Blackwater Estate, Klang",Selangor,Malaysia,1933,32,long,False,False,True,rhtests-only,,3.03,101.45
+"General Hospital, Kuala Lumpur",Selangor,Malaysia,1917,42,long,False,False,True,rhtests-only,,3.139,101.7
+"General Hospital, Kuala Lumpur",Selangor,Malaysia,1930,42,long,False,False,True,rhtests-only,,3.139,101.7
+Haron Estate,Selangor,Malaysia,1947,39,long,False,True,False,rhtests-only,,3.03,101.5
+Haron Estate,Selangor,Malaysia,1947,39,long,False,False,True,rhtests-only,,3.03,101.5
+Kajang District Hospital,Selangor,Malaysia,1932,61,long,False,False,True,rhtests-only,,2.993,101.79
+Kuala Kubu Bahru Hospital,Selangor,Malaysia,1940,52,long,False,False,True,rhtests-only,,3.558,101.66
+"Raja Musa Estate, Kuala Selangor",Selangor,Malaysia,1920,40,long,False,False,True,rhtests-only,,3.42,101.35
+"Raja Musa Estate, Kuala Selangor",Selangor,Malaysia,1921,40,long,False,True,False,rhtests-only,,3.42,101.35
+"Raja Musa Estate, Kuala Selangor",Selangor,Malaysia,1932,40,long,False,False,True,rhtests-only,,3.42,101.35
+Sungei Choh Rubber Estate,Selangor,Malaysia,1917,40,long,False,True,False,rhtests-only,,3.41,101.57
+Sungei Choh Rubber Estate,Selangor,Malaysia,1917,40,long,False,False,True,rhtests-only,,3.41,101.57
+"Sungei Kapar Estate, Kapar",Selangor,Malaysia,1917,45,long,False,True,False,rhtests-only,,3.15,101.38
+"Weld Hill Reservoir, Kuala Lumpur",Selangor,Malaysia,1950,40,long,False,False,True,rhtests-only,,3.16,101.69
+MacRitchie Reservoir,Singapore,Singapore,1914,80,long,False,False,True,rhtests-only,,1.3417,103.8338
+Marpinggan,Sumatra,Indonesia,1924,35,long,False,True,False,rhtests-only,,1.18330001831055,99.400001525879
+Muarasoma,Sumatra,Indonesia,1936,30,long,False,True,False,rhtests-only,,0.699999988079071,99.349998474121
+Seribudolok,Sumatra,Indonesia,1935,35,long,False,True,False,rhtests-only,,3.0,98.5832977294922

@@ -1,0 +1,7 @@
+station=Kuala Kangsar District Hospital
+n_years=62
+break_year=1918
+Tmax=9.363
+SNHT_95_threshold=8.655
+z_mean_before=0.428
+z_mean_after=-0.353

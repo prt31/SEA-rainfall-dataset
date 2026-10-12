@@ -1,0 +1,149 @@
+station,seg_start,seg_end,factor,is_reference_segment
+Atbara Estate,1875,1951,0.7581,False
+Atbara Estate,1952,1958,1.0,True
+"Bagan Datoh D.I.D., Lower Perak",1875,1951,1.2239,False
+"Bagan Datoh D.I.D., Lower Perak",1952,1958,1.0,True
+"Bagan Serai, P.W.D. Office",1875,1939,1.1165,False
+"Bagan Serai, P.W.D. Office",1940,1958,1.0,True
+Bahau Estate,1875,1950,1.1545,False
+Bahau Estate,1951,1958,1.0,True
+Bandar Bharu Hospital,1875,1914,1.0408,False
+Bandar Bharu Hospital,1915,1948,0.907,False
+Bandar Bharu Hospital,1949,1958,1.0,True
+Batu Kurau P.W.D.,1875,1924,1.3723,False
+Batu Kurau P.W.D.,1925,1958,1.0,True
+"Benta Estate, Raub",1875,1951,1.2195,False
+"Benta Estate, Raub",1952,1958,1.0,True
+"Benta, P.W.D.",1875,1936,1.2172,False
+"Benta, P.W.D.",1937,1958,1.0,True
+Bentong Hospital,1875,1915,0.878,False
+Bentong Hospital,1916,1958,1.0,True
+"Bidor Rubber Estate, Bidor",1875,1915,1.1455,False
+"Bidor Rubber Estate, Bidor",1916,1958,1.0,True
+Braunston Rubber Estate,1875,1942,1.369,False
+Braunston Rubber Estate,1943,1950,1.1857,False
+Braunston Rubber Estate,1951,1958,1.0,True
+Bukit Berapit Reservoir,1875,1942,0.8533,False
+Bukit Berapit Reservoir,1943,1958,1.0,True
+"Bukit Hitam Estate, Puchong",1875,1922,0.8401,False
+"Bukit Hitam Estate, Puchong",1923,1958,1.0,True
+Bukit Wang (Waterworks),1875,1952,1.2109,False
+Bukit Wang (Waterworks),1953,1958,1.0,True
+"Cheneras Reservoir, Kuala Lipis",1875,1935,0.8154,False
+"Cheneras Reservoir, Kuala Lipis",1936,1958,1.0,True
+Dusun Bertam Estate,1875,1937,0.8993,False
+Dusun Bertam Estate,1938,1958,1.0,True
+Gedong Estate,1875,1916,0.8391,False
+Gedong Estate,1917,1958,1.0,True
+Gemas Estate (Home Division),1875,1948,0.9084,False
+Gemas Estate (Home Division),1949,1958,1.0,True
+Glenealy Estate,1875,1950,0.8666,False
+Glenealy Estate,1951,1958,1.0,True
+Highlands Estate,1875,1932,0.8804,False
+Highlands Estate,1933,1958,1.0,True
+Jendarata Estate,1875,1946,0.8431,False
+Jendarata Estate,1947,1958,1.0,True
+Jeram Kuantan Estate,1875,1949,0.7733,False
+Jeram Kuantan Estate,1950,1958,1.0,True
+Kasui,1875,1935,1.913,False
+Kasui,1936,1958,1.0,True
+Kota Tampan Estate,1875,1937,0.8618,False
+Kota Tampan Estate,1938,1958,1.0,True
+Kuala Kangsar District Hospital,1875,1917,0.9081,False
+Kuala Kangsar District Hospital,1918,1958,1.0,True
+Kuala Kubu Bahru Hospital,1875,1912,0.8339,False
+Kuala Kubu Bahru Hospital,1913,1958,1.0,True
+Kuala Kurau Hospital,1875,1935,0.9104,False
+Kuala Kurau Hospital,1936,1958,1.0,True
+Kuala Pilah District Hospital,1875,1948,0.8815,False
+Kuala Pilah District Hospital,1949,1958,1.0,True
+Kuantan Hospital,1875,1931,0.8501,False
+Kuantan Hospital,1932,1958,1.0,True
+"Kukub Rubber Estate, Pontian",1875,1950,0.8219,False
+"Kukub Rubber Estate, Pontian",1951,1958,1.0,True
+Lendu Estate,1875,1947,0.9073,False
+Lendu Estate,1948,1958,1.0,True
+Ligertwood Rubber Estate,1875,1948,0.912,False
+Ligertwood Rubber Estate,1949,1958,1.0,True
+"Lubok Paku, P.W.D.",1875,1950,1.2721,False
+"Lubok Paku, P.W.D.",1951,1958,1.0,True
+Mambau Estate,1875,1918,0.8815,False
+Mambau Estate,1919,1958,1.0,True
+Merlimau Police Station,1875,1948,1.2814,False
+Merlimau Police Station,1949,1958,1.0,True
+"Midlands Estate, Klang",1875,1921,0.964,False
+"Midlands Estate, Klang",1922,1937,0.8759,False
+"Midlands Estate, Klang",1938,1958,1.0,True
+"Muar Itam Estate, Muar",1875,1952,1.2709,False
+"Muar Itam Estate, Muar",1953,1958,1.0,True
+"Nalla Rubber Estate, Tronoh",1875,1947,0.8479,False
+"Nalla Rubber Estate, Tronoh",1948,1958,1.0,True
+Oil Palm of Malaya (Ulu Remis Division),1875,1948,0.8589,False
+Oil Palm of Malaya (Ulu Remis Division),1949,1958,1.0,True
+Padang Sanai,1875,1949,0.7086,False
+Padang Sanai,1950,1958,1.0,True
+"Pegoh Estate (Home Div.), Alor Gajah",1875,1948,0.737,False
+"Pegoh Estate (Home Div.), Alor Gajah",1949,1958,1.0,True
+Pekan Hospital,1875,1929,0.868,False
+Pekan Hospital,1930,1958,1.0,True
+Pertang Estate,1875,1928,0.8567,False
+Pertang Estate,1929,1958,1.0,True
+Pulau Langkawi Hospital,1875,1931,1.1544,False
+Pulau Langkawi Hospital,1932,1958,1.0,True
+Ratanui Estate (Beech Division),1875,1937,1.2488,False
+Ratanui Estate (Beech Division),1938,1958,1.0,True
+Selama Hospital,1875,1925,0.8666,False
+Selama Hospital,1926,1958,1.0,True
+Selama Sungei Duri Estate,1875,1919,0.8598,False
+Selama Sungei Duri Estate,1920,1958,1.0,True
+Selinsing Agricultural Test Plot,1875,1952,1.1164,False
+Selinsing Agricultural Test Plot,1953,1958,1.0,True
+Serendah Rubber Estate,1875,1923,0.9652,False
+Serendah Rubber Estate,1924,1932,0.8087,False
+Serendah Rubber Estate,1933,1958,1.0,True
+Sibolga/Pinangsore,1875,1919,1.1864,False
+Sibolga/Pinangsore,1920,1958,1.0,True
+Sitiawan Estate,1875,1920,0.8591,False
+Sitiawan Estate,1921,1958,1.0,True
+Strathisla Estate,1875,1946,0.86,False
+Strathisla Estate,1947,1958,1.0,True
+"Sungei Buloh Estate, Bukit Rotan",1875,1918,1.1543,False
+"Sungei Buloh Estate, Bukit Rotan",1919,1958,1.0,True
+"Sungei Kapar Estate, Kapar",1875,1921,1.0465,False
+"Sungei Kapar Estate, Kapar",1922,1939,0.9113,False
+"Sungei Kapar Estate, Kapar",1940,1958,1.0,True
+Sungei Lembing Hospital,1875,1946,0.8078,False
+Sungei Lembing Hospital,1947,1958,1.0,True
+"Sungei Rayat Estate, Batu Pahat",1875,1947,1.2524,False
+"Sungei Rayat Estate, Batu Pahat",1948,1958,1.0,True
+Sungei Salan P.W.D. (63rd Mile Kuantan Road),1875,1934,1.2935,False
+Sungei Salan P.W.D. (63rd Mile Kuantan Road),1935,1958,1.0,True
+Sungei Serdang Estate,1875,1937,1.024,False
+Sungei Serdang Estate,1938,1951,0.7398,False
+Sungei Serdang Estate,1952,1958,1.0,True
+"Sungei Tiram Estate (Div. ""A"")",1875,1936,1.1181,False
+"Sungei Tiram Estate (Div. ""A"")",1937,1958,1.0,True
+Sussex Estate,1875,1920,0.8981,False
+Sussex Estate,1921,1947,0.78,False
+Sussex Estate,1948,1958,1.0,True
+"Tanjong Olak Estate, Muar",1875,1949,1.2168,False
+"Tanjong Olak Estate, Muar",1950,1958,1.0,True
+Tanjungraja,1875,1924,0.7932,False
+Tanjungraja,1925,1958,1.0,True
+Tapah Estate,1875,1917,1.1794,False
+Tapah Estate,1918,1958,1.0,True
+Teluk Anson District Hospital,1875,1917,0.8377,False
+Teluk Anson District Hospital,1918,1958,1.0,True
+Tikam P.W.D. (Benta/Kuantan Road),1875,1949,0.7735,False
+Tikam P.W.D. (Benta/Kuantan Road),1950,1958,1.0,True
+Ulu Gombak 11.5 Mile,1875,1949,0.7697,False
+Ulu Gombak 11.5 Mile,1950,1958,1.0,True
+Ulu Gombak 15 3/4 Mile,1875,1920,0.8205,False
+Ulu Gombak 15 3/4 Mile,1921,1930,0.6785,False
+Ulu Gombak 15 3/4 Mile,1931,1958,1.0,True
+Walbrook Estate,1875,1937,0.8643,False
+Walbrook Estate,1938,1958,1.0,True
+"Weld Hill Reservoir, Kuala Lumpur",1875,1931,0.8916,False
+"Weld Hill Reservoir, Kuala Lumpur",1932,1958,1.0,True
+"Wellingdon Estate, Ayer Tawar",1875,1947,0.8201,False
+"Wellingdon Estate, Ayer Tawar",1948,1958,1.0,True

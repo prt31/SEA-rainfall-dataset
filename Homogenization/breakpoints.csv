@@ -1,1 +1,135 @@
 station_no,station_name,break_year,break_month,detection_method,test_statistic,p_value,break_type,adjustment_applied,adjustment_factor,notes
+,Atbara Estate,1924,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,Atbara Estate,1926,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,Atbara Estate,1952,,SNHT-relative,,,undocumented,yes,0.7581,confidence=medium; region=Pahang
+,"Bagan Datoh D.I.D., Lower Perak",1952,,SNHT-relative,,,undocumented,yes,1.2239,confidence=low; region=Perak
+,"Bagan Serai, P.W.D. Office",1940,,SNHT-relative,,,undocumented,yes,1.1165,confidence=low; region=Perak
+,Bahau Estate,1951,,SNHT-relative,,,undocumented,yes,1.1545,confidence=low; region=Negri_Sembilan
+,Baling Hospital,1921,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Kedah
+,Baling Hospital,1927,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Kedah
+,Bandar Bharu Hospital,1915,,SNHT-relative,,,undocumented,yes,1.0408,confidence=medium; region=Kedah
+,Bandar Bharu Hospital,1949,,SNHT-relative+PMT,,,undocumented,yes,0.907,confidence=high; region=Kedah
+,Batang Kali Estate,1928,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Batu Caves Estate,1936,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Batu Kurau P.W.D.,1925,,SNHT-relative,,,undocumented,yes,1.3723,confidence=medium; region=Perak
+,"Benta Estate, Raub",1952,,SNHT-relative,,,undocumented,yes,1.2195,confidence=low; region=Pahang
+,"Benta, P.W.D.",1937,,SNHT-relative,,,undocumented,yes,1.2172,confidence=low; region=Pahang
+,Bentong Hospital,1916,,SNHT-relative,,,undocumented,yes,0.878,confidence=medium; region=Pahang
+,Bentong Hospital,1941,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,Bentong Waterworks,1932,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,Bentong Waterworks,1949,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,"Bidor Rubber Estate, Bidor",1916,,SNHT-relative,,,undocumented,yes,1.1455,confidence=medium; region=Perak
+,"Blackwater Estate, Klang",1933,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Braunston Rubber Estate,1943,,SNHT-relative,,,undocumented,yes,1.369,confidence=medium; region=Selangor
+,Braunston Rubber Estate,1951,,SNHT-relative,,,undocumented,yes,1.1857,confidence=medium; region=Selangor
+,Bukit Banang Impounding Reservoir,1948,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Johor
+,Bukit Berapit Reservoir,1943,,SNHT-relative,,,undocumented,yes,0.8533,confidence=low; region=Penang
+,"Bukit Hitam Estate, Puchong",1923,,SNHT-relative+PMT,,,undocumented,yes,0.8401,confidence=high; region=Selangor
+,Bukit Wang (Waterworks),1953,,SNHT-relative,,,undocumented,yes,1.2109,confidence=low; region=Kedah
+,"Cheneras Reservoir, Kuala Lipis",1924,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,"Cheneras Reservoir, Kuala Lipis",1936,,SNHT-relative+PMT,,,undocumented,yes,0.8154,confidence=high; region=Pahang
+,Cicely Estate,1921,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Dusun Bertam Estate,1938,,SNHT-relative,,,undocumented,yes,0.8993,confidence=low; region=Perak
+,Gedong Estate,1917,,SNHT-relative+PMT,,,undocumented,yes,0.8391,confidence=high; region=Perak
+,Gemas Estate (Home Division),1949,,SNHT-relative,,,undocumented,yes,0.9084,confidence=low; region=Johor
+,"General Hospital, Kuala Lumpur",1917,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"General Hospital, Kuala Lumpur",1930,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Glenealy Estate,1951,,SNHT-relative,,,undocumented,yes,0.8666,confidence=medium; region=Perak
+,Gopeng Hospital,1908,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Haron Estate,1947,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Haron Estate,1947,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Highlands Estate,1933,,SNHT-relative,,,undocumented,yes,0.8804,confidence=medium; region=Selangor
+,Jendarata Estate,1921,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Jendarata Estate,1923,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Jendarata Estate,1947,,SNHT-relative,,,undocumented,yes,0.8431,confidence=medium; region=Perak
+,Jeram Kuantan Estate,1950,,SNHT-relative,,,undocumented,yes,0.7733,confidence=low; region=Pahang
+,Kajang District Hospital,1932,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Kampar Hospital,1911,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Kasui,1936,,SNHT-relative,,,undocumented,yes,1.913,confidence=low; region=Sumatra
+,Klian Intan Dispensary,1919,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Klian Intan Dispensary,1919,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Kota Tampan Estate,1938,,SNHT-relative,,,undocumented,yes,0.8618,confidence=medium; region=Perak
+,Kuala Kangsar District Hospital,1918,,SNHT-relative,,,undocumented,yes,0.9081,confidence=medium; region=Perak
+,Kuala Kubu Bahru Hospital,1913,,SNHT-relative+PMT,,,undocumented,yes,0.8339,confidence=high; region=Selangor
+,Kuala Kubu Bahru Hospital,1940,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Kuala Kurau Hospital,1936,,SNHT-relative,,,undocumented,yes,0.9104,confidence=medium; region=Perak
+,Kuala Pilah District Hospital,1949,,SNHT-relative,,,undocumented,yes,0.8815,confidence=medium; region=Negri_Sembilan
+,Kuantan Hospital,1932,,SNHT-relative+PMT,,,undocumented,yes,0.8501,confidence=high; region=Pahang
+,"Kukub Rubber Estate, Pontian",1951,,SNHT-relative,,,undocumented,yes,0.8219,confidence=low; region=Johor
+,Kulim Hospital,1920,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Kedah
+,Labu Estate,1922,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Negri_Sembilan
+,Lawin Estate,1940,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Lawin Estate,1940,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Lendu Estate,1948,,SNHT-relative,,,undocumented,yes,0.9073,confidence=low; region=Malacca
+,Ligertwood Rubber Estate,1949,,SNHT-relative,,,undocumented,yes,0.912,confidence=low; region=Perak
+,"Lubok Paku, P.W.D.",1951,,SNHT-relative,,,undocumented,yes,1.2721,confidence=low; region=Pahang
+,MacRitchie Reservoir,1914,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Singapore
+,Mambau Estate,1919,,SNHT-relative,,,undocumented,yes,0.8815,confidence=medium; region=Negri_Sembilan
+,Mambau Estate,1927,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Negri_Sembilan
+,Marpinggan,1924,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Sumatra
+,"Maxwell Hill, Taiping",1922,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Merlimau Police Station,1949,,SNHT-relative,,,undocumented,yes,1.2814,confidence=low; region=Malacca
+,"Midlands Estate, Klang",1922,,SNHT-relative,,,undocumented,yes,0.964,confidence=medium; region=Selangor
+,"Midlands Estate, Klang",1938,,SNHT-relative+PMT+PMF,,,undocumented,yes,0.8759,confidence=high; region=Selangor
+,"Muar Itam Estate, Muar",1953,,SNHT-relative,,,undocumented,yes,1.2709,confidence=low; region=Johor
+,Muarasoma,1936,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Sumatra
+,"Nalla Rubber Estate, Tronoh",1948,,SNHT-relative,,,undocumented,yes,0.8479,confidence=low; region=Perak
+,Oil Palm of Malaya (Ulu Remis Division),1949,,SNHT-relative,,,undocumented,yes,0.8589,confidence=low; region=Johor
+,Padang Sanai,1950,,SNHT-relative,,,undocumented,yes,0.7086,confidence=low; region=Kedah
+,"Pegoh Estate (Home Div.), Alor Gajah",1949,,SNHT-relative,,,undocumented,yes,0.737,confidence=low; region=Malacca
+,Pekan Hospital,1930,,SNHT-relative,,,undocumented,yes,0.868,confidence=medium; region=Pahang
+,Perhentian Tinggi Estate,1925,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Negri_Sembilan
+,Pertang Estate,1929,,SNHT-relative+PMT,,,undocumented,yes,0.8567,confidence=high; region=Negri_Sembilan
+,Pulau Langkawi Hospital,1932,,SNHT-relative,,,undocumented,yes,1.1544,confidence=medium; region=Kedah
+,"Raja Musa Estate, Kuala Selangor",1920,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"Raja Musa Estate, Kuala Selangor",1921,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"Raja Musa Estate, Kuala Selangor",1932,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Ratanui Estate (Beech Division),1938,,SNHT-relative,,,undocumented,yes,1.2488,confidence=low; region=Perak
+,Sabrang Estate,1922,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Selama Hospital,1926,,SNHT-relative+PMF,,,undocumented,yes,0.8666,confidence=medium-high; region=Perak
+,Selama Sungei Duri Estate,1920,,SNHT-relative,,,undocumented,yes,0.8598,confidence=medium; region=Kedah
+,Selinsing Agricultural Test Plot,1953,,SNHT-relative,,,undocumented,yes,1.1164,confidence=low; region=Perak
+,Sengkang Estate,1924,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Negri_Sembilan
+,Sengkang Estate,1924,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Negri_Sembilan
+,Serendah Rubber Estate,1924,,SNHT-relative,,,undocumented,yes,0.9652,confidence=medium; region=Selangor
+,Serendah Rubber Estate,1933,,SNHT-relative+PMT,,,undocumented,yes,0.8087,confidence=high; region=Selangor
+,Seribudolok,1935,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Sumatra
+,Sibolga/Pinangsore,1920,,SNHT-relative,,,undocumented,yes,1.1864,confidence=medium; region=Sumatra
+,Sitiawan Estate,1921,,SNHT-relative,,,undocumented,yes,0.8591,confidence=medium; region=Perak
+,Sitiawan Estate,1939,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Strathisla Estate,1923,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Strathisla Estate,1947,,SNHT-relative,,,undocumented,yes,0.86,confidence=medium; region=Perak
+,"Sungei Buloh Estate, Bukit Rotan",1919,,SNHT-relative,,,undocumented,yes,1.1543,confidence=medium; region=Selangor
+,Sungei Choh Rubber Estate,1917,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,Sungei Choh Rubber Estate,1917,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"Sungei Kapar Estate, Kapar",1917,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"Sungei Kapar Estate, Kapar",1922,,SNHT-relative+PMT+PMF,,,undocumented,yes,1.0465,confidence=high; region=Selangor
+,"Sungei Kapar Estate, Kapar",1940,,SNHT-relative,,,undocumented,yes,0.9113,confidence=medium; region=Selangor
+,Sungei Lembing Hospital,1947,,SNHT-relative,,,undocumented,yes,0.8078,confidence=medium; region=Pahang
+,"Sungei Rayat Estate, Batu Pahat",1948,,SNHT-relative,,,undocumented,yes,1.2524,confidence=low; region=Johor
+,Sungei Salan P.W.D. (63rd Mile Kuantan Road),1935,,SNHT-relative,,,undocumented,yes,1.2935,confidence=low; region=Pahang
+,Sungei Serdang Estate,1938,,SNHT-relative+PMT+PMF,,,undocumented,yes,1.024,confidence=high; region=Selangor
+,Sungei Serdang Estate,1952,,SNHT-relative+PMT+PMF,,,undocumented,yes,0.7398,confidence=high; region=Selangor
+,"Sungei Tiram Estate (Div. ""A"")",1937,,SNHT-relative,,,undocumented,yes,1.1181,confidence=low; region=Johor
+,Sussex Estate,1921,,SNHT-relative,,,undocumented,yes,0.8981,confidence=medium; region=Perak
+,Sussex Estate,1939,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Sussex Estate,1948,,SNHT-relative+PMT,,,undocumented,yes,0.78,confidence=high; region=Perak
+,"Tanjong Olak Estate, Muar",1950,,SNHT-relative,,,undocumented,yes,1.2168,confidence=low; region=Johor
+,Tanjungraja,1925,,SNHT-relative,,,undocumented,yes,0.7932,confidence=medium; region=Sumatra
+,Tapah Estate,1918,,SNHT-relative,,,undocumented,yes,1.1794,confidence=medium; region=Perak
+,Tapah Estate,1938,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Tapah Estate,1938,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Tapah Hospital,1906,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Tapah Hospital,1912,,PMF,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Tapah Hospital,1912,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Tapah Hospital,1937,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Perak
+,Teluk Anson District Hospital,1918,,SNHT-relative+PMT,,,undocumented,yes,0.8377,confidence=high; region=Perak
+,Tikam P.W.D. (Benta/Kuantan Road),1935,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Pahang
+,Tikam P.W.D. (Benta/Kuantan Road),1950,,SNHT-relative,,,undocumented,yes,0.7735,confidence=medium; region=Pahang
+,Ulu Gombak 11.5 Mile,1950,,SNHT-relative,,,undocumented,yes,0.7697,confidence=low; region=Selangor
+,Ulu Gombak 15 3/4 Mile,1921,,SNHT-relative,,,undocumented,yes,0.8205,confidence=medium; region=Selangor
+,Ulu Gombak 15 3/4 Mile,1931,,SNHT-relative+PMT+PMF,,,undocumented,yes,0.6785,confidence=high; region=Selangor
+,Walbrook Estate,1938,,SNHT-relative+PMT,,,undocumented,yes,0.8643,confidence=high; region=Perak
+,"Weld Hill Reservoir, Kuala Lumpur",1932,,SNHT-relative,,,undocumented,yes,0.8916,confidence=medium; region=Selangor
+,"Weld Hill Reservoir, Kuala Lumpur",1950,,PMT,,,undocumented,no,,confidence=rhtests-only; region=Selangor
+,"Wellingdon Estate, Ayer Tawar",1948,,SNHT-relative,,,undocumented,yes,0.8201,confidence=low; region=Perak

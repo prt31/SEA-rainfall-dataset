@@ -1,0 +1,79 @@
+station,region,country,break_year,lat,lon
+Gemas Estate (Home Division),Johor,Malaysia,1949,2.58,102.61
+"Kukub Rubber Estate, Pontian",Johor,Malaysia,1951,1.32,103.45
+"Muar Itam Estate, Muar",Johor,Malaysia,1953,2.05,102.65
+Oil Palm of Malaya (Ulu Remis Division),Johor,Malaysia,1949,1.8867,103.4829
+"Sungei Rayat Estate, Batu Pahat",Johor,Malaysia,1948,1.9,103.05
+"Sungei Tiram Estate (Div. ""A"")",Johor,Malaysia,1937,1.5763,103.9085
+"Tanjong Olak Estate, Muar",Johor,Malaysia,1950,2.1494,102.65
+Bandar Bharu Hospital,Kedah,Malaysia,1915,5.129,100.532
+Bandar Bharu Hospital,Kedah,Malaysia,1949,5.129,100.532
+Bukit Wang (Waterworks),Kedah,Malaysia,1953,6.283,100.508
+Padang Sanai,Kedah,Malaysia,1950,6.344,100.69
+Pulau Langkawi Hospital,Kedah,Malaysia,1932,6.323,99.855
+Selama Sungei Duri Estate,Kedah,Malaysia,1920,5.19,100.6
+Lendu Estate,Malacca,Malaysia,1948,2.3665,102.1939
+Merlimau Police Station,Malacca,Malaysia,1949,2.15,102.433
+"Pegoh Estate (Home Div.), Alor Gajah",Malacca,Malaysia,1949,2.4188,102.2308
+Bahau Estate,Negri_Sembilan,Malaysia,1951,2.8039,102.4342
+Kuala Pilah District Hospital,Negri_Sembilan,Malaysia,1949,2.752,102.265
+Mambau Estate,Negri_Sembilan,Malaysia,1919,2.6333,101.9
+Pertang Estate,Negri_Sembilan,Malaysia,1929,2.9667,102.25
+Atbara Estate,Pahang,Malaysia,1952,3.83,103.15
+"Benta Estate, Raub",Pahang,Malaysia,1952,3.95,101.93
+"Benta, P.W.D.",Pahang,Malaysia,1937,4.017,101.967
+Bentong Hospital,Pahang,Malaysia,1916,3.523,101.909
+"Cheneras Reservoir, Kuala Lipis",Pahang,Malaysia,1936,4.18,102.055
+Jeram Kuantan Estate,Pahang,Malaysia,1950,3.83,103.28
+Kuantan Hospital,Pahang,Malaysia,1932,3.8126,103.3256
+"Lubok Paku, P.W.D.",Pahang,Malaysia,1951,3.5064,102.7846
+Pekan Hospital,Pahang,Malaysia,1930,3.4906,103.3902
+Sungei Lembing Hospital,Pahang,Malaysia,1947,3.9186,103.0367
+Sungei Salan P.W.D. (63rd Mile Kuantan Road),Pahang,Malaysia,1935,3.56,102.65
+Tikam P.W.D. (Benta/Kuantan Road),Pahang,Malaysia,1950,3.96,102.01
+Bukit Berapit Reservoir,Penang,Malaysia,1943,5.3734,100.4783
+"Bagan Datoh D.I.D., Lower Perak",Perak,Malaysia,1952,3.983,100.783
+"Bagan Serai, P.W.D. Office",Perak,Malaysia,1940,5.0081,100.5394
+Batu Kurau P.W.D.,Perak,Malaysia,1925,4.9754,100.7976
+"Bidor Rubber Estate, Bidor",Perak,Malaysia,1916,4.117,101.283
+Dusun Bertam Estate,Perak,Malaysia,1938,4.5378,101.1059
+Gedong Estate,Perak,Malaysia,1917,4.1,101.15
+Glenealy Estate,Perak,Malaysia,1951,4.4588,100.9307
+Jendarata Estate,Perak,Malaysia,1947,3.9125,100.9453
+Kota Tampan Estate,Perak,Malaysia,1938,5.05,100.96
+Kuala Kangsar District Hospital,Perak,Malaysia,1918,4.7722,100.9421
+Kuala Kurau Hospital,Perak,Malaysia,1936,5.0164,100.4318
+Ligertwood Rubber Estate,Perak,Malaysia,1949,4.95,100.7167
+"Nalla Rubber Estate, Tronoh",Perak,Malaysia,1948,4.423,100.993
+Ratanui Estate (Beech Division),Perak,Malaysia,1938,3.9919,101.0397
+Selama Hospital,Perak,Malaysia,1926,5.2185,100.6935
+Selinsing Agricultural Test Plot,Perak,Malaysia,1953,4.9134,100.5521
+Sitiawan Estate,Perak,Malaysia,1921,4.1354,100.7299
+Strathisla Estate,Perak,Malaysia,1947,4.8,101.1
+Sussex Estate,Perak,Malaysia,1921,4.0033,101.1302
+Sussex Estate,Perak,Malaysia,1948,4.0033,101.1302
+Tapah Estate,Perak,Malaysia,1918,4.2,101.25
+Teluk Anson District Hospital,Perak,Malaysia,1918,4.0224,101.0206
+Walbrook Estate,Perak,Malaysia,1938,4.2685,100.71
+"Wellingdon Estate, Ayer Tawar",Perak,Malaysia,1948,4.3148,100.7842
+Braunston Rubber Estate,Selangor,Malaysia,1943,3.06,101.52
+Braunston Rubber Estate,Selangor,Malaysia,1951,3.06,101.52
+"Bukit Hitam Estate, Puchong",Selangor,Malaysia,1923,3.01,101.62
+Highlands Estate,Selangor,Malaysia,1933,3.05,101.48
+Kuala Kubu Bahru Hospital,Selangor,Malaysia,1913,3.558,101.66
+"Midlands Estate, Klang",Selangor,Malaysia,1922,3.04,101.43
+"Midlands Estate, Klang",Selangor,Malaysia,1938,3.04,101.43
+Serendah Rubber Estate,Selangor,Malaysia,1924,3.36,101.61
+Serendah Rubber Estate,Selangor,Malaysia,1933,3.36,101.61
+"Sungei Buloh Estate, Bukit Rotan",Selangor,Malaysia,1919,3.22,101.48
+"Sungei Kapar Estate, Kapar",Selangor,Malaysia,1922,3.15,101.38
+"Sungei Kapar Estate, Kapar",Selangor,Malaysia,1940,3.15,101.38
+Sungei Serdang Estate,Selangor,Malaysia,1938,3.0,101.7
+Sungei Serdang Estate,Selangor,Malaysia,1952,3.0,101.7
+Ulu Gombak 11.5 Mile,Selangor,Malaysia,1950,3.24,101.75
+Ulu Gombak 15 3/4 Mile,Selangor,Malaysia,1921,3.24,101.75
+Ulu Gombak 15 3/4 Mile,Selangor,Malaysia,1931,3.24,101.75
+"Weld Hill Reservoir, Kuala Lumpur",Selangor,Malaysia,1932,3.16,101.69
+Kasui,Sumatra,Indonesia,1936,-4.71670007705688,104.466697692871
+Sibolga/Pinangsore,Sumatra,Indonesia,1920,1.54999995231628,98.8833312988281
+Tanjungraja,Sumatra,Indonesia,1925,-3.33330011367798,104.766700744629

@@ -1,0 +1,79 @@
+station,seg_start,seg_end,break_year,correction_factor,confidence,n_years_in_segment
+Atbara Estate,1875,1951,1952,0.7581,medium,34
+"Bagan Datoh D.I.D., Lower Perak",1875,1951,1952,1.2239,low,13
+"Bagan Serai, P.W.D. Office",1875,1939,1940,1.1165,low,14
+Bahau Estate,1875,1950,1951,1.1545,low,19
+Bandar Bharu Hospital,1875,1914,1915,1.0408,medium,7
+Bandar Bharu Hospital,1915,1948,1949,0.907,high,31
+Batu Kurau P.W.D.,1875,1924,1925,1.3723,medium,10
+"Benta Estate, Raub",1875,1951,1952,1.2195,low,20
+"Benta, P.W.D.",1875,1936,1937,1.2172,low,13
+Bentong Hospital,1875,1915,1916,0.878,medium,15
+"Bidor Rubber Estate, Bidor",1875,1915,1916,1.1455,medium,7
+Braunston Rubber Estate,1875,1942,1943,1.369,medium,29
+Braunston Rubber Estate,1943,1950,1951,1.1857,medium,7
+Bukit Berapit Reservoir,1875,1942,1943,0.8533,low,8
+"Bukit Hitam Estate, Puchong",1875,1922,1923,0.8401,high,7
+Bukit Wang (Waterworks),1875,1952,1953,1.2109,low,9
+"Cheneras Reservoir, Kuala Lipis",1875,1935,1936,0.8154,high,20
+Dusun Bertam Estate,1875,1937,1938,0.8993,low,12
+Gedong Estate,1875,1916,1917,0.8391,high,16
+Gemas Estate (Home Division),1875,1948,1949,0.9084,low,17
+Glenealy Estate,1875,1950,1951,0.8666,medium,35
+Highlands Estate,1875,1932,1933,0.8804,medium,17
+Jendarata Estate,1875,1946,1947,0.8431,medium,34
+Jeram Kuantan Estate,1875,1949,1950,0.7733,low,15
+Kasui,1875,1935,1936,1.913,low,9
+Kota Tampan Estate,1875,1937,1938,0.8618,medium,24
+Kuala Kangsar District Hospital,1875,1917,1918,0.9081,medium,30
+Kuala Kubu Bahru Hospital,1875,1912,1913,0.8339,high,17
+Kuala Kurau Hospital,1875,1935,1936,0.9104,medium,41
+Kuala Pilah District Hospital,1875,1948,1949,0.8815,medium,45
+Kuantan Hospital,1875,1931,1932,0.8501,high,31
+"Kukub Rubber Estate, Pontian",1875,1950,1951,0.8219,low,10
+Lendu Estate,1875,1947,1948,0.9073,low,10
+Ligertwood Rubber Estate,1875,1948,1949,0.912,low,18
+"Lubok Paku, P.W.D.",1875,1950,1951,1.2721,low,18
+Mambau Estate,1875,1918,1919,0.8815,medium,6
+Merlimau Police Station,1875,1948,1949,1.2814,low,11
+"Midlands Estate, Klang",1875,1921,1922,0.964,medium,12
+"Midlands Estate, Klang",1922,1937,1938,0.8759,high,16
+"Muar Itam Estate, Muar",1875,1952,1953,1.2709,low,10
+"Nalla Rubber Estate, Tronoh",1875,1947,1948,0.8479,low,17
+Oil Palm of Malaya (Ulu Remis Division),1875,1948,1949,0.8589,low,10
+Padang Sanai,1875,1949,1950,0.7086,low,8
+"Pegoh Estate (Home Div.), Alor Gajah",1875,1948,1949,0.737,low,12
+Pekan Hospital,1875,1929,1930,0.868,medium,30
+Pertang Estate,1875,1928,1929,0.8567,high,16
+Pulau Langkawi Hospital,1875,1931,1932,1.1544,medium,17
+Ratanui Estate (Beech Division),1875,1937,1938,1.2488,low,11
+Selama Hospital,1875,1925,1926,0.8666,medium-high,37
+Selama Sungei Duri Estate,1875,1919,1920,0.8598,medium,8
+Selinsing Agricultural Test Plot,1875,1952,1953,1.1164,low,21
+Serendah Rubber Estate,1875,1923,1924,0.9652,medium,9
+Serendah Rubber Estate,1924,1932,1933,0.8087,high,6
+Sibolga/Pinangsore,1875,1919,1920,1.1864,medium,11
+Sitiawan Estate,1875,1920,1921,0.8591,medium,10
+Strathisla Estate,1875,1946,1947,0.86,medium,27
+"Sungei Buloh Estate, Bukit Rotan",1875,1918,1919,1.1543,medium,11
+"Sungei Kapar Estate, Kapar",1875,1921,1922,1.0465,high,14
+"Sungei Kapar Estate, Kapar",1922,1939,1940,0.9113,medium,18
+Sungei Lembing Hospital,1875,1946,1947,0.8078,medium,22
+"Sungei Rayat Estate, Batu Pahat",1875,1947,1948,1.2524,low,14
+Sungei Salan P.W.D. (63rd Mile Kuantan Road),1875,1934,1935,1.2935,low,10
+Sungei Serdang Estate,1875,1937,1938,1.024,high,24
+Sungei Serdang Estate,1938,1951,1952,0.7398,high,8
+"Sungei Tiram Estate (Div. ""A"")",1875,1936,1937,1.1181,low,7
+Sussex Estate,1875,1920,1921,0.8981,medium,7
+Sussex Estate,1921,1947,1948,0.78,high,21
+"Tanjong Olak Estate, Muar",1875,1949,1950,1.2168,low,11
+Tanjungraja,1875,1924,1925,0.7932,medium,12
+Tapah Estate,1875,1917,1918,1.1794,medium,7
+Teluk Anson District Hospital,1875,1917,1918,0.8377,high,30
+Tikam P.W.D. (Benta/Kuantan Road),1875,1949,1950,0.7735,medium,30
+Ulu Gombak 11.5 Mile,1875,1949,1950,0.7697,low,17
+Ulu Gombak 15 3/4 Mile,1875,1920,1921,0.8205,medium,13
+Ulu Gombak 15 3/4 Mile,1921,1930,1931,0.6785,high,10
+Walbrook Estate,1875,1937,1938,0.8643,high,27
+"Weld Hill Reservoir, Kuala Lumpur",1875,1931,1932,0.8916,medium,19
+"Wellingdon Estate, Ayer Tawar",1875,1947,1948,0.8201,low,9
