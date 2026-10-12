@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "MY-SG-SU Rainfall Dataset: validated monthly rainfall for Johor, Malaysia, 1926–1958"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - given-names: Praveen
+    affiliation: "College of Integrative Studies, Singapore Management University"
+keywords:
+  - historical climatology
+  - data rescue
+  - rainfall
+  - British Malaya
+  - Johor
+  - OCR
+license: CC-BY-4.0
+date-released: 2026-10-09
