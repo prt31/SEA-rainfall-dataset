@@ -1,9 +1,9 @@
 # SEA-rainfall-dataset
 
 Digitised and homogenised **historical rainfall records for maritime Southeast
-Asia** — the British Malaya rainfall publication series and neighbours —
+Asia** — the Malaysia, Singapore, Sumatra rainfall publication series and neighbours —
 rescued from scanned register pages into a validated, openly documented dataset
-for Geoscience Data Journal (GDJ) data papers.
+for Scientific Data Nature Journal (SDATA) data papers.
 
 The core principle throughout is **honesty over completeness**: no rainfall
 value is ever invented or silently adjusted. Every transcribed row is either
@@ -14,7 +14,7 @@ traceable.
 
 ## Final consolidated dataset
 
-**`data/MY_SG_SU_rainfall_pre1958_dist_filled.csv`** — the consolidated,
+**`data/MY_SG_SU_rainfall_pre1958.csv`** — the consolidated,
 reconciled, homogenised and metadata-filled master table that the data paper
 describes.
 
