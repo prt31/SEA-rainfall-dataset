@@ -1,6 +1,6 @@
 # SEA-rainfall-dataset
 
-Digitised and homogenised **historical rainfall records for maritime Southeast
+Digitised and homogenised **historical rainfall records for Southeast
 Asia** — the Malaysia, Singapore, Sumatra rainfall publication series and neighbours —
 rescued from scanned register pages into a validated, openly documented dataset
 for Scientific Data Nature Journal (SDATA) data papers.
